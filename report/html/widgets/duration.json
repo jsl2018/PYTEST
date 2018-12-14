@@ -1,0 +1,11 @@
+[ {
+  "uid" : "7d2fbd32fbe5610c",
+  "name" : "TestLogin.test_login[jiangshaolong-123456]",
+  "time" : {
+    "start" : 1544699704143,
+    "stop" : 1544699740233,
+    "duration" : 36090
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

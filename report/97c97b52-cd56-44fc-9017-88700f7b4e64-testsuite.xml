@@ -1,0 +1,30 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1544716232334" stop="1544716292542">
+  <name>scripts.test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1544716232334" status="passed" stop="1544716273392">
+      <name>TestLogin.test_login[18677556986-123456]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5300-MainThread"/>
+        <label name="host" value="LAPTOP-UMEIS647"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544716273393" status="passed" stop="1544716292542">
+      <name>TestLogin.test_login[18600001111-123456]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5300-MainThread"/>
+        <label name="host" value="LAPTOP-UMEIS647"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

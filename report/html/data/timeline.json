@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-UMEIS647",
+    "children" : [ {
+      "name" : "8504-MainThread",
+      "children" : [ {
+        "name" : "TestLogin.test_login[jiangshaolong-123456]",
+        "uid" : "7d2fbd32fbe5610c",
+        "parentUid" : "2917c44d93f218de50b9ade4e41a568e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544699704143,
+          "stop" : 1544699740233,
+          "duration" : 36090
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2917c44d93f218de50b9ade4e41a568e"
+    } ],
+    "uid" : "d7d7ebd45633ea54b89ce98b6b7a9c1b"
+  } ]
+}

@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "scripts.test_login",
+    "children" : [ {
+      "name" : "TestLogin.test_login[jiangshaolong-123456]",
+      "uid" : "7d2fbd32fbe5610c",
+      "parentUid" : "1b274e7981f6835cf7d2fc6069639a60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544699704143,
+        "stop" : 1544699740233,
+        "duration" : 36090
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "1b274e7981f6835cf7d2fc6069639a60"
+  } ]
+}

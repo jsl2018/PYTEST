@@ -1,0 +1,17 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "TestLogin.test_login[jiangshaolong-123456]",
+    "uid" : "7d2fbd32fbe5610c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1544699704143,
+      "stop" : 1544699740233,
+      "duration" : 36090
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}
